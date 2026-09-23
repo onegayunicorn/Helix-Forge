@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Helix-Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 1290,
+      "bodyTextHash": "f3c7ff54963881ae6a57448b646d530204952c8683d6f5a5f3bdba432064c94c",
+      "bodyTextPrefix": "Skip to content Helix-Forge Locus Analyzer Protein Concordance L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Helix-Forge",
+      "hasCanvas": false,
+      "bodyTextLen": 1284,
+      "bodyTextHash": "48fd5fba4bac4b43bf5a20a6293ded67dcade5bea7523dafd17d7561649a5b3c",
+      "bodyTextPrefix": "Skip to content Helix-Forge NM_004006.2 · XP21.2-P21.1 The dystr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
